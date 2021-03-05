@@ -1,0 +1,15 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "//",
+  "main": "//",
+  "scripts": {
+    "test": "//"
+  },
+  "repository": {
+    "type": "git",
+    "url": "testing"
+  },
+  "author": "",
+  "license": "ISC"
+}
